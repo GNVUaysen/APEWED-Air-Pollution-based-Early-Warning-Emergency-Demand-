@@ -10,13 +10,13 @@ This repository contains the code and aggregated datasets supporting the study
 
 ## Data availability
 Air quality and meteorological data are publicly available from the Chilean National Air Quality Information System (SINCA).
-Emergency healthcare data are aggregated and anonymized; raw clinical records are not publicly shared due to privacy regulations.
+Emergency healthcare data are aggregated and anonymized. All data were extracted from Chilean Department of Health Statistics and Information (DEIS; https://deis.minsal.cl/), Ministry of Health.
 
 ## Code availability
 All analysis scripts were developed in Python and are provided in this repository.
 
 ## Requirements
-Python 3.9+
+Python 3.X
 See `requirements.txt`.
 
 ## Disclaimer
