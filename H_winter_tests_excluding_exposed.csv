@@ -1,0 +1,2 @@
+winter_def,note,diff_mean_resp_w_minus_nw,boot95_low_resp,boot95_high_resp,perm_pvalue_resp,n_days_used
+may_aug,winter vs non-winter excluding cluster days + post window,4.3824656455165325,1.3875205165291442,7.326925622806742,0.0033993201359728054,2929
